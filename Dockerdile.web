@@ -1,0 +1,5 @@
+FROM nginx:1.17.8
+
+WORDIR /app
+
+EXPOSE 80
